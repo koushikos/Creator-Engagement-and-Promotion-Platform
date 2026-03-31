@@ -9,7 +9,7 @@ I want to build a web-based platform that connects social media creators with re
 Many new creators on platforms like Instagram, YouTube, and other social media struggle to grow their audience organically due to high competition. As a result, some creators try to buy followers, which often leads to fake or inactive accounts and violates platform policies. At the same time, many users are willing to perform small online tasks to earn money.
 
 ## Proposed Solution
-
+ 
 This platform will act as a bridge between creators and users. Creators can create promotional campaigns by depositing a certain amount of money and defining tasks such as:
 
 * Following their account
