@@ -16,7 +16,7 @@ This platform will act as a bridge between creators and users. Creators can crea
 * Liking posts
 * Watching videos 
 * Commenting genuinely
-
+ 
 Users can browse available tasks, complete them, and earn money for each verified action.
 
 ## How It Works
