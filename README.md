@@ -5,7 +5,7 @@
 I want to build a web-based platform that connects social media creators with real users to help creators grow their accounts through genuine engagement. The main goal of this platform is to provide an ethical and effective way for creators to promote their content and gain visibility, while also allowing users to earn money by completing simple social media tasks.
 
 ## Problem Statement
-
+  
 Many new creators on platforms like Instagram, YouTube, and other social media struggle to grow their audience organically due to high competition. As a result, some creators try to buy followers, which often leads to fake or inactive accounts and violates platform policies. At the same time, many users are willing to perform small online tasks to earn money.
 
 ## Proposed Solution
